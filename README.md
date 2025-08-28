@@ -1,7 +1,7 @@
-Project Description
+Project Description\n
 This Python script calculates the total cost value of a café’s inventory. The café sells several items, each with a set stock quantity and a cost price. By multiplying the stock quantity of each item with its cost price, the program determines the overall inventory value.
 
-Features
+Features\n
 1. Stores a list of menu items.
 
 2. Keeps track of stock quantities for each item.
